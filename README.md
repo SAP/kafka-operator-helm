@@ -4,11 +4,7 @@
 
 ## About this project
 
-Helm chart for https://github.com/sap/kafka-operator
-
-## Requirements and Setup
-
-*Insert a short description what is required to get your project running...*
+Helm chart for https://github.com/sap/kafka-operator.
 
 ## Support, Feedback, Contributing
 
