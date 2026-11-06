@@ -3,6 +3,16 @@ entries:
   kafka-operator:
   - apiVersion: v2
     appVersion: v0.1.3
+    created: "2026-11-06T13:17:35.27669635Z"
+    description: A Helm chart for https://github.com/sap/kafka-operator
+    digest: be48e315eb36994ad7c019d5fcf61559902c7a7bf3078b8435d79bf8ed589c20
+    name: kafka-operator
+    type: application
+    urls:
+    - https://github.com/SAP/kafka-operator-helm/releases/download/0.1.5/kafka-operator-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: v0.1.3
     created: "2026-11-05T23:39:56.683945315Z"
     description: A Helm chart for https://github.com/sap/kafka-operator
     digest: ce531fb961be721540d3c945f565a13bbd7d523c0a47d1143f99577de36202e4
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/SAP/kafka-operator-helm/releases/download/0.1.0/kafka-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-05T23:39:56.683436468Z"
+generated: "2026-11-06T13:17:35.276115886Z"
